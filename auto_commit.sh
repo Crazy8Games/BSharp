@@ -9,6 +9,7 @@ git add .
 # Commit changes with the provided message
 git commit -m "$commit_message"
 
+
 # Push changes to the remote repository
 git push
 
